@@ -1,0 +1,58 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(13, 52, 121);
+    font-size: 100px;
+    text-decoration: underline;
+}
+
+button {
+    background-color: rgb(40, 119, 255);
+    border-radius: 20px;
+    border-color: rgb(13, 52, 121);
+    cursor: pointer;
+    border-width: 5px;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(13, 52, 121);
+}
+
+button:hover {
+    background-color: rgb(13, 52, 121);
+    color: rgb(40, 119, 255);
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(13, 52, 121);
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+#admin {
+    color: red;
+}
+
+.pylesse {
+    border-color: red;
+    border-width: 10px;
+    border-radius: 30px;
+    border-style: solid;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    position: absolute;
+    padding: 30px;
+    transform: translate(-50%, -50%);
+}
+
+img {
+    border-radius: 20px;
+}

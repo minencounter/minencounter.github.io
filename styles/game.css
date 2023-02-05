@@ -1,0 +1,45 @@
+/*
+.counter {
+    background-color: yellow;
+    width: 1000px;
+    height: max-content;
+}
+*/
+
+* {
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+button {
+    background-color: rgb(40, 119, 255);
+    border-radius: 20px;
+    border-color: rgb(13, 52, 121);
+    cursor: pointer;
+    border-width: 5px;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(13, 52, 121);
+}
+
+button:hover {
+    background-color: rgb(13, 52, 121);
+    color: rgb(40, 119, 255);
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(13, 52, 121);
+    font-size: 100px;
+    text-decoration: underline;
+}
+
+h2 {
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    text-decoration: underline;
+}

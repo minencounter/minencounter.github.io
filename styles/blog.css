@@ -1,0 +1,69 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(13, 52, 121);
+    font-size: 100px;
+    text-decoration: underline;
+}
+
+button {
+    background-color: rgb(40, 119, 255);
+    border-radius: 20px;
+    border-color: rgb(13, 52, 121);
+    cursor: pointer;
+    border-width: 5px;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(13, 52, 121);
+}
+
+button:hover {
+    background-color: rgb(13, 52, 121);
+    color: rgb(40, 119, 255);
+}
+
+#title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(13, 52, 121);
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+#image {
+    border-radius: 20px;
+    width: 500px;
+    height: 500px;
+}
+
+#text {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+
+div.post {
+    border-color: rgb(13, 52, 121);
+    border-width: 10px;
+    border-radius: 30px;
+    border-style: solid;
+    background-color: rgb(40, 119, 255);
+}
+
+#date {
+    color: orange;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+
+#no-post {
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    text-decoration: underline;
+}
